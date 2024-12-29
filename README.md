@@ -1,5 +1,5 @@
 
-# Project Title
+# DigitalThrifting
 
 A responsive e-commerce web application built with React. The app includes features like dark and light mode, product browsing, and cart management. It is optimized for performance and provides a smooth user experience up to the cart page.
 
